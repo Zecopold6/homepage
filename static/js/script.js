@@ -1,4 +1,4 @@
-console.log('%cCopyright © 2024 ZC',
+console.log('%cCopyright © 2024 ZCOS',
     'background-color: #ff00ff; color: white; font-size: 24px; font-weight: bold; padding: 10px;'
 );
 console.log('%c   z', 'color: #8B4513; font-size: 20px;');
