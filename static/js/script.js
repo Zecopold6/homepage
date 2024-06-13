@@ -208,7 +208,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
     
     
-    //pop('./static/img/tz.jpg')
+    //pop('')
     
     
     
@@ -217,7 +217,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-var pageLoading = document.querySelector("#zyyo-loading");
+var pageLoading = document.querySelector("#zc-loading");
 window.addEventListener('load', function() {
     setTimeout(function () {
         pageLoading.style.opacity = '0';
